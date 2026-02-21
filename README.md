@@ -1,19 +1,22 @@
-# 👋 Hi, I'm Bilel
+# 👋cryptofino| Web3 Builder
 
-## 🚀 Building in Public
-100+ public commits.  
-Building in the open consistently.
+## 🚀 About Me
+Smart contract developer building in public.  
+Focused on blockchain infrastructure and on-chain tools.
 
-## 💻 Tech Stack
-- Web3
-- Smart Contracts
-- JavaScript
-- Python
+## ⚡ What I Do
+- 🔗 Web3 Development
+- 🛠 Smart Contract Engineering
+- 📊 On-chain Data & Tools
+- 🚀 Shipping consistently
 
-## 📈 Current Focus
-- Crypto Projects
-- Blockchain Development
-- Open Source Contributions
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptofino&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptofino&layout=compact&theme=dark)
+
+## 📌 Current Focus
+Building public blockchain tools and improving smart contract security.
 
 ---
-⚡ Always shipping. Always improving.
+⚡ Always building. Always learning.
